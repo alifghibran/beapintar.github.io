@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Beapintar | Pembayaran</title>
+	<link rel="stylesheet" type="text/css" href="css/bayar.css">
+	<link rel="icon" href="img/logo.png">
+</head>
+<body>
+<div id="nav">
+		<img src="img/logok.png" class="logo-atas">
+		<img src="img/drop.png" class="drop">
+		<p class="nama">Halo, Naura</p>
+		<img src="img/nawra.png" class="foto-profil">
+		<a href="porto.html" class="porto">PORTOFOLIO</a>
+		<a href="lomba.html" class="lomba">LOMBA</a>
+		<a href="cari.html" class="cari">CARI LES</a>
+		<a href="les.html" class="les">LES ONLINE</a>
+		<a href="beapintar.html" class="bea">BEASISWA</a>
+	</div>
+	<div id="konten">
+		<a href="les.html"><img src="img/back.svg" class="back"> <span class="bali">Kembali</span></a> 
+		<p class="judul">Pembayaran</p>
+		<img src="img/bg-bayar.png" class="bg-bayar">
+		<div class="rekening">
+			<div class="kiri">
+				<div class="total">
+					<p class="y">Total Pembayaran</p><p class="z">Rp 50.000,00</p>
+					<div class="bank">
+						<img src="img/mandiri.png" class="nama-bank">	<span class="rek">102-00-0526387-3</span>
+						<hr>
+						<img src="img/bca.png" class="nama-bank">	<span class="rek">102-00-0526387-3</span>
+						<hr>
+						<img src="img/bri.png" class="nama-bank">	<span class="rek">102-00-0526387-3</span>
+						<hr>
+						<img src="img/bni.png" class="nama-bank">	<span class="rek">102-00-0526387-3</span>
+						<hr>
+						<img src="img/cimb.png" class="nama-bank">	<span class="rek">102-00-0526387-3</span>
+					</div>
+				</div>
+			</div>	
+			<div class="kanan">
+				<form action="lesbayar.html" class="mbayar" method="post">
+					<label>Transfer ke Bank</label>
+					<input type="text" name="nama-bank-pengirim" placeholder="Nama bank" class="in-nama-bank" required>
+					<label>Nomer Rekening Anda</label>
+					<input type="text" name="nomer-rekening" class="in-nomer-rekening" placeholder="Nomor rekening" required>
+					<label>Nama Pemilik Rekening</label>
+					<input type="text" name="nama-pemilik" class="in-nama-pemilik" placeholder="Nama pemilik" required>
+					<label>Bukti Pembayaran</label>
+					<input type="file" name="bukti" class="bukti-pembayaran" required>
+					<input type="submit" name="oke" class="oke" value="SELESAI">
+				</form>
+			</div>
+		</div>
+	</div>	
+</body>
+</html>

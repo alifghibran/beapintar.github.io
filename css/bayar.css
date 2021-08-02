@@ -1,0 +1,373 @@
+body {
+	width: 100%;
+	margin: 0 auto;
+	background-color: #f9fafc;
+	padding-bottom: 600px;
+}
+#nav {
+	width: 100%;
+	height: 80px;
+	background-color: #ffffff;
+}
+.logo-atas {
+	margin-left: 100px;
+	margin-top: 2%;
+}
+#nav a {
+	margin-left: 50px;
+	margin-top: 2.2%;
+}
+.bea {
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.4px;
+	text-align: center;
+	color: #334665;
+	text-decoration: none;
+	float: right;
+}
+.bea:hover {
+	color: #f69833;
+	transition: 0.4s;
+}
+.les {
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.4px;
+	text-align: center;
+	color: #f69833;
+	text-decoration: none;
+	float: right;
+}
+.les:hover {
+	color: #334665;
+	transition: 0.4s;
+}
+.cari {
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.4px;
+	text-align: center;
+	color: #334665; 
+	text-decoration: none;
+	float: right;
+}
+.cari:hover {
+	color: #f69833;
+	transition: 0.4s;
+}
+.lomba {
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.4px;
+	text-align: center;
+	color: #334665; 
+	text-decoration: none;
+	float: right;
+}
+.lomba:hover {
+	color: #f69833;
+	transition: 0.4s;
+}
+.porto {
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.4px;
+	text-align: center;
+	color:  #334665;
+	text-decoration: none;
+	float: right;
+	margin-right: 50px;
+}
+.porto:hover {
+	color: #f69833; 
+	transition: 0.4s;
+}
+.foto-profil {
+	float: right;
+	margin-right: 10px;
+	margin-top: 1.6%;
+}
+.nama {
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.4px;
+	color: #475874;
+	float: right;
+	margin-top: 2.2%;
+}
+.drop {
+	float: right;
+	margin-top: 2.6%;
+	margin-left: 15px;
+	cursor: pointer;
+	margin-right: 100px;
+}
+
+#konten {
+	width: 100%;
+}
+.judul {
+	font-family: Poppins;
+	font-size: 40px;
+	font-weight: bold;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	color: #ffffff;
+	position: absolute;
+	margin-top: 120px;
+	margin-left: 40%;
+	text-align: center;
+}
+.back {
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	margin-left: 100px;
+	margin-top: 20px;
+}
+.bg-bayar {
+	width: 100%;
+}
+.bali {
+	margin-left: 130px;
+	margin-top: 18px;
+	position: absolute;
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: bold;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.5px;
+	color: #ffffff;
+}
+.rekening {
+	width: 970px;
+	height: 670px;
+	border-radius: 10px;
+	border: solid 1px #eef0f5;
+	background-color: #ffffff;
+	position: absolute;
+	margin-top: -100px;
+	margin-left: 12%;
+}
+.kiri {
+	width: 50%;
+}
+.total {
+	width: 420px;
+	height: 70px;
+	border-radius: 3px;
+	box-shadow: 0 10px 50px 0 rgba(0, 0, 0, 0.05);
+	border: solid 1px #eef0f5;
+	background-color: #ffffff;
+	margin-left: 50px;
+	margin-top: 50px;	
+}
+.y {
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.4px;
+	color: #3c5269;
+	margin-top: 22px;
+	margin-left: 20px;
+}
+.z {
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: bold;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.6px;
+	text-align: right;
+	color: #3c5269;
+	margin-top: -43px;
+	margin-right: 20px;
+}
+.bank {
+	width: 420px;
+	height: 460px;
+	border-radius: 3px;
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.05);
+	border: solid 1px #eef0f5;
+	background-color: #ffffff;
+	margin-top: 50px;
+}
+.nama-bank {
+	margin-top: 30px;
+	margin-left: 30px;
+}
+.rek {
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.3px;
+	color: #3c5269;
+	float: right;
+	margin-right: 30px;
+	margin-top: 30px;
+}
+.bank hr {
+	margin-top: 30px;
+	border: solid 1px #f0f3f7;
+}
+.kanan {
+	width: 50%;
+	float: right;
+}
+.mbayar {
+	margin-top: -540px;
+}
+.mbayar label {
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.4px;
+	color: #3c5269;
+	margin-left: 50px;
+}
+.in-nama-bank {
+	width: 350px;
+	padding-left: 20px;
+	height: 50px;
+	border-radius: 3px;
+	border: solid 1px #dbe0e8;
+	background-color: #fbfbfb;
+	margin-left: 50px;
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.3px;
+	color: #3c5269;
+	outline: none;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.in-nomer-rekening {
+	width: 350px;
+	padding-left: 20px;
+	height: 50px;
+	border-radius: 3px;
+	border: solid 1px #dbe0e8;
+	background-color: #fbfbfb;
+	margin-left: 50px;
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.3px;
+	color: #3c5269;
+	outline: none;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.in-nama-pemilik {
+	width: 350px;
+	padding-left: 20px;
+	height: 50px;
+	border-radius: 3px;
+	border: solid 1px #dbe0e8;
+	background-color: #fbfbfb;
+	margin-left: 50px;
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.3px;
+	color: #3c5269;
+	outline: none;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+input[type="file"] {
+   width: 290px;
+  height: 50px;
+  border-radius: 3px;
+  border: solid 1px #f39632;
+  border-style: dashed;
+  margin-left: 50px;
+  margin-top: 20px;
+  outline: none;
+  cursor: pointer;
+    font-family: Poppins;
+    text-align: center;
+    padding-left: 80px;
+    padding-top: 20px;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.63;
+  letter-spacing: 0.7px;
+  color: #f69833;
+}
+.oke {
+	width: 370px;
+  height: 50px;
+  border-radius: 3px;
+  box-shadow: 0 27px 20px -20px rgba(1, 24, 12, 0.2);
+  background-color: #3fc57f;
+  border: none;
+  margin-left: 50px;
+    font-family: Poppins;
+  font-size: 14px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 0.2px;
+  text-align: center;
+  color: #f0f3f7;
+  margin-top: 60px;
+  cursor: pointer;
+}
+.oke:hover {
+	background-color: #3FC5A7;
+	transition: 0.4s;
+}

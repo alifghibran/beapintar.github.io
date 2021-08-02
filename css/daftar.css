@@ -1,0 +1,205 @@
+body {
+	margin: 0 auto;
+	width: 100%;
+}
+#daftar {
+	width: 100%;
+}
+.kiri {
+	width: 50%;
+	margin: 0 auto;
+	float: left;
+}
+.bg {
+	width: 100%;
+	float: left;
+}
+.icon {
+	position: absolute;
+	margin-top: 27%;
+	margin-left: 15%;
+}
+.judul {
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.3px;
+	text-align: center;
+	color: #ffffff;
+	position: absolute;
+	margin-top: 34%;
+	margin-left: 9%;
+}
+.kanan {
+	width: 50%;
+	margin: 0 auto;
+	float: right;
+}
+.welcome {
+	font-family: Poppins;
+	font-size: 35px;
+	font-weight: bold;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.6px;
+	color: #27303f;
+	margin-left: 18%;
+	margin-top: 10%;
+}
+.wel {
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.3px;
+	color: #848FA2;
+	margin-left: 18%;
+	margin-top: -2%;
+}
+.login-form {
+	text-align: center;
+	margin-top: 100px;
+	width: 420px;
+	margin-left: 18%;
+}
+.email {
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.3px;
+	color: #848FA2;
+	float: left;
+	margin-bottom: 20px;
+}
+.in-email {
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	padding-left: 20px;
+	letter-spacing: 0.3px;
+	color: #2b3b51;
+	width: 400px;
+	height: 50px;
+	border-radius: 3px;
+	border: solid 1px #f1f4f8;
+	background-color: #f8fafc;
+	outline: none;
+	margin-bottom: 30px;
+}
+.user {
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.3px;
+	color: #848FA2;
+	float: left;
+	margin-bottom: 20px;	
+}
+.in-user {
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	padding-left: 20px;
+	letter-spacing: 0.3px;
+	color: #2b3b51;
+	width: 400px;
+	height: 50px;
+	border-radius: 3px;
+	border: solid 1px #f1f4f8;
+	background-color: #f8fafc;
+	outline: none;
+	margin-bottom: 30px;	
+}
+.pass {
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.3px;
+	color: #848FA2;
+	float: left;
+	margin-bottom: 20px;	
+}
+.in-password {
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	padding-left: 20px;
+	letter-spacing: 0.3px;
+	color: #2b3b51;
+	width: 400px;
+	height: 50px;
+	border-radius: 3px;
+	border: solid 1px #f1f4f8;
+	background-color: #f8fafc;
+	outline: none;	
+}
+.daftar {
+	width: 420px;
+	height: 50px;
+	border-radius: 3px;
+	box-shadow: 0 27px 20px -20px rgba(1, 24, 12, 0.2);
+	background-color: #3fc57f;
+	border: none;
+	outline: none;
+	font-size: 14px;
+	font-weight: bold;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.2px;
+	text-align: center;
+	color: #f0f3f7;
+	text-transform: uppercase;
+	cursor: pointer;
+	margin-top: 30px;
+}
+.daftar:hover {
+	background-color: #3FC5A7;
+	transition: 0.4s;
+}
+.sudah {
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.3px;
+	color: #848FA2;
+	float: left;
+	margin-top: 30px;
+}
+.link-login {
+	font-size: 14px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 0.3px;
+  color: #0d8bee;
+  text-decoration: none;
+}

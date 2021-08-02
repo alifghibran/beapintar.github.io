@@ -1,0 +1,154 @@
+body {
+	width: 100%;
+	margin: 0 auto;
+	background-color: #f9fafc;
+}
+#nav {
+	width: 100%;
+	height: 80px;
+	background-color: #ffffff;
+}
+.logo-atas {
+	margin-left: 100px;
+	margin-top: 2%;
+}
+#nav a {
+	margin-left: 50px;
+	margin-top: 2.2%;
+}
+.bea {
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.4px;
+	text-align: center;
+	color: #334665;
+	text-decoration: none;
+	float: right;
+}
+.bea:hover {
+	color: #f69833;
+	transition: 0.4s;
+}
+.les {
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.4px;
+	text-align: center;
+	color: #f69833;
+	text-decoration: none;
+	float: right;
+}
+.les:hover {
+	color: #334665;
+	transition: 0.4s;
+}
+.cari {
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.4px;
+	text-align: center;
+	color: #334665; 
+	text-decoration: none;
+	float: right;
+}
+.cari:hover {
+	color: #f69833;
+	transition: 0.4s;
+}
+.lomba {
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.4px;
+	text-align: center;
+	color: #334665; 
+	text-decoration: none;
+	float: right;
+}
+.lomba:hover {
+	color: #f69833;
+	transition: 0.4s;
+}
+.porto {
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.4px;
+	text-align: center;
+	color:  #334665;
+	text-decoration: none;
+	float: right;
+	margin-right: 50px;
+}
+.porto:hover {
+	color: #f69833; 
+	transition: 0.4s;
+}
+.foto-profil {
+	float: right;
+	margin-right: 10px;
+	margin-top: 1.6%;
+}
+.nama {
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.4px;
+	color: #475874;
+	float: right;
+	margin-top: 2.2%;
+}
+.drop {
+	float: right;
+	margin-top: 2.6%;
+	margin-left: 15px;
+	cursor: pointer;
+	margin-right: 100px;
+}
+.pesan {
+	font-family: Poppins;
+	font-size: 50px;
+	color: #334665;
+	text-align: center;
+	margin-top: 13%;
+}
+.balik {
+	width: 200px;
+	height: 40px;
+	border-radius: 3px;
+	box-shadow: 0 27px 20px -20px rgba(1, 24, 12, 0.2);
+	background-color: #3fc57f;
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.5px;
+	color: #ffffff;
+	margin-left: 42.5%;
+	border: none;
+	outline: none;
+	cursor: pointer;
+}

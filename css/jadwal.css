@@ -1,0 +1,516 @@
+body {
+	width: 100%;
+	margin: 0 auto;
+	background-color: #f9fafc;
+	padding-bottom: 20px;
+}
+#nav {
+	width: 100%;
+	height: 80px;
+	background-color: #ffffff;
+}
+.logo-atas {
+	margin-left: 100px;
+	margin-top: 2%;
+}
+#nav a {
+	margin-left: 50px;
+	margin-top: 2.2%;
+}
+.bea {
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.4px;
+	text-align: center;
+	color: #334665;
+	text-decoration: none;
+	float: right;
+}
+.bea:hover {
+	color: #f69833;
+	transition: 0.4s;
+}
+.les {
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.4px;
+	text-align: center;
+	color: #f69833;
+	text-decoration: none;
+	float: right;
+}
+.les:hover {
+	color: #334665;
+	transition: 0.4s;
+}
+.cari {
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.4px;
+	text-align: center;
+	color: #334665; 
+	text-decoration: none;
+	float: right;
+}
+.cari:hover {
+	color: #f69833;
+	transition: 0.4s;
+}
+.lomba {
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.4px;
+	text-align: center;
+	color: #334665; 
+	text-decoration: none;
+	float: right;
+}
+.lomba:hover {
+	color: #f69833;
+	transition: 0.4s;
+}
+.porto {
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.4px;
+	text-align: center;
+	color:  #334665;
+	text-decoration: none;
+	float: right;
+	margin-right: 50px;
+}
+.porto:hover {
+	color: #f69833; 
+	transition: 0.4s;
+}
+.foto-profil {
+	float: right;
+	margin-right: 10px;
+	margin-top: 1.6%;
+}
+.nama {
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.4px;
+	color: #475874;
+	float: right;
+	margin-top: 2.2%;
+}
+.drop {
+	float: right;
+	margin-top: 2.6%;
+	margin-left: 15px;
+	cursor: pointer;
+	margin-right: 100px;
+}
+#kemampuan {
+	width: 40%;
+}
+.profil {
+	width: 270px;
+	height: 130px;
+	border-radius: 3px;
+	box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.05);
+	background-color: #ffffff;
+	margin-top: 20px;
+	margin-left: 100px;
+}
+.poto {
+	margin-left: 15px;
+	margin-top: 15px;
+}
+.nama-profil {
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.3px;
+	color: #3a3d40;
+	margin-top: -16.2%;
+	margin-left: 26%;
+}
+.email {
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.2px;
+	color: #a2a8b2;
+	margin-top: -6%;
+	margin-left: 26%;
+}
+.batas-profil {
+	width: 100%;
+	height: 1px;
+	border: none;
+	background-color: #eef2f4;
+}
+.sekolah {
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.2px;
+	color: #69a7e5;
+	text-align: center;
+}
+.passion {
+	width: 270px;
+	height: auto;
+	padding-bottom: 20px;
+	padding-top: 5px;
+	border-radius: 3px;
+	box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.05);
+	background-color: #ffffff;
+	margin-top: 20px;
+	margin-left: 100px;
+}
+.judul {
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.3px;
+	color: #8a9299;
+	padding-left: 15px;
+}
+.ples {
+	float: right;
+	margin-top: -10.5%;
+	margin-right: 15px;
+	cursor: pointer;
+}
+.bg-tag {
+	width: 230px;
+	height: auto;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	border-radius: 3px;
+	border: solid 1px #f1f4f8;
+	background-color: #f8fafc;
+	margin-left: 5.2%;
+	margin-top: 20px;
+}
+.tag {
+	width: 220px;
+	height: 30px;
+	border-radius: 3px;
+	border: solid 0.5px #3fc57f;
+	background-color: #e9f7f0;
+	margin-bottom: 10px;
+}
+.isi{
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.2px;
+	color: #3fc57f;
+	margin-left: 20px;
+	margin-top: 5px;
+}
+.close1 {
+	margin-left: 90px;
+}
+.close2 {
+	margin-left: 112px;
+}
+.close3 {
+	margin-left: 95px;
+}
+.close4 {
+	margin-left: 102px;
+}
+
+.skill {
+	width: 270px;
+	height: auto;
+	padding-bottom: 20px;
+	padding-top: 5px;
+	border-radius: 3px;
+	box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.05);
+	background-color: #ffffff;
+	margin-top: 20px;
+	margin-left: 100px;
+}
+.skill img {
+	margin-left: 15px;
+	margin-top: 15px;
+}
+.judul-skill {
+	padding-left: 15px;
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	color: #334665;
+	margin-top: 20px;
+}
+
+#konten {
+	width: 60%;
+	margin-left: 30%;
+	margin-top: -64%;
+	font-family: Poppins;
+}
+.tanggal {
+	width: 850px;
+	height: 70px;
+	border-radius: 3px;
+	background-color: #ffffff;
+}
+
+
+/* nav les */
+
+.nav-les {
+	width: 100%;
+	height: 100px;
+	border-radius: 3px;
+	box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.05);
+	background-color: #334665;
+}
+.go {
+	font-family: Poppins;
+	width: 193px;
+	height: 37px;
+	border-radius: 2px;
+	background-color: #ff536f;
+	border: none;
+	font-size: 14px;
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.1px;
+	text-align: center;
+	color: #ffffff;
+	cursor: pointer;
+	margin-left: 100px;
+	margin-top: 30px;
+	outline: none;
+}
+.go:hover {
+	background-color: #FF5353;
+	transition: 0.4s;
+}
+.bahan {
+	font-family: Poppins;
+	width: 140px;
+	height: 100px;
+	background-color: #334665;
+	border: none;
+	font-size: 12px;
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.4px;
+	text-align: center;
+	color: #ffffff;
+	margin-left: 530px;
+	cursor: pointer;
+	outline: none;
+}
+.bahan:hover {
+	background-color: #f69833;;
+	transition: 0.4s;
+}
+.jadwal {
+	font-family: Poppins;
+	width: 140px;
+	height: 100px;
+	background-color: #f69833;
+	border: none;	
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.4px;
+	text-align: center;
+	color: #ffffff;
+	cursor: pointer;
+	margin:-4px;
+	outline: none;
+}
+.jadwal:hover {
+	background-color: #F6B532;
+	transition: 0.4s;
+}
+.hasil {
+	font-family: Poppins;
+	width: 140px;
+	height: 100px;
+	background-color: #334665;
+	border: none;	
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.4px;
+	text-align: center;
+	color: #ffffff;
+	cursor: pointer;
+	margin:0px;
+	outline: none;
+}
+.hasil:hover {
+	background-color: #f69833;
+	transition: 0.4s;
+}
+
+.icon-tanggal {
+	margin-left: 42%;
+	margin-top: 22px;
+}
+.hari {
+	padding-left: 10px;
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: 1;
+	letter-spacing: normal;
+	color: #87959f;
+}
+.konten {
+	border-radius: 3px;
+	background-color: #ffffff;
+	width: 850px;
+	height: 150px;
+	margin-top: 20px;
+}
+.menu {
+	width: 850px;
+	height: 46px;
+	background-color: #334665;
+	border-radius: 3px 3px 0 0;
+}
+.nama-passion {
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: bold;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	color: #ffffff;
+	margin-left: 70px;
+	padding-top: 12px;
+}
+.batas {
+	width: 46px;
+	transform: rotate(90deg);
+	margin-top: -25px;
+	border: 1px solid#ffffff;
+	margin-left: 170px;
+}
+.waktu {
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: 1;
+	letter-spacing: normal;
+	color: #ffffff;
+	padding-left: 220px;
+	margin-top: -15px;
+}
+.batas2 {
+	width: 46px;
+	transform: rotate(90deg);
+	margin-top: -25px;
+	border: 1px solid#ffffff;
+	margin-left: 450px;
+}
+.waktu2 {
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: 1;
+	letter-spacing: normal;
+	color: #ffffff;
+	padding-left: 500px;
+	margin-top: -14px;
+}
+.bawah {
+	width: 194px;
+	height: 65px;
+	background-color: #ffffff;
+	text-align: center;
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: 300;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.3px;
+	text-align: center;
+	color: #102b3f;
+	padding-top: 35px;
+}
+.bawah2 {
+	width: 282px;
+	height: 65px;
+	background-color: #fbfbfb;
+	text-align: center;
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: 300;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.3px;
+	text-align: center;
+	color: #102b3f;
+	padding-top: 35px;
+	margin-left: 194px;
+	margin-top: -100px;
+	border-bottom: 5px solid #3fc57f;
+}
